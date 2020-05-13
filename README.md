@@ -17,7 +17,7 @@ _"Happiness is an inside job"_
     * The Fresh Prince of Bel-Air
     * Fractured
     * Luther
-#### You can always count on me when you're feeling down. 
+#### You can always count on me! 
 ##### As a child we went to the park where I would always chase after a group of chickens, this was the first thing i usually did as soon as I stepped out of the car. One day however the rooster of the group had had enough and turned around and started chasing me. He jumped to my face and the result was a few scratches and a lesson well learned!
-###### Never underestimate rooster ;)
+###### Never underestimate roosters ;)
 [<<previous](https://github.com/jeremiaverhulst/challenge-markdown)  Karima Laamiri  [Next>>](https://github.com/kkckushal/Kushal-KC)
